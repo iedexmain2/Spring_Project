@@ -1,5 +1,5 @@
 package com.codenvy.example.spring;
-
+//This file was pulled from remote repository
 import org.springframework.web.servlet.ModelAndView;
 import org.springframework.web.servlet.mvc.Controller;
 
